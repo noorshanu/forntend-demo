@@ -1,0 +1,144 @@
+body{
+    /*background-image: url(/yfdfi-background.jpg)!important;*/
+    /*background-size: cover;*/
+}
+.btn{
+    background: #d6882e!important;
+    border-color:#d6882e!important;
+    box-shadow: none!important;
+    border-radius: 10px;
+}
+.btn a{
+    font-size: 13px;
+    font-weight:bold;
+}
+input.form-control{
+    border-color: #FFF!important;
+    background-color: #FFFF!important;
+    color: #A0A0A0!important;
+}
+p{
+    font-family: Montserrat!important;
+    font-size: 12px!important;
+    font-weight: 700!important;
+    color: #b1a68a!important;
+    padding-top: 10px;
+}
+h4{
+    text-align: left;
+    margin: 0px!important;
+    padding: 30px 20px;
+    padding-bottom: 20px;
+    border-bottom: 0px;
+    text-transform: uppercase;
+    font-size:15px;
+    /*color: #683628!important;*/
+}
+.c-callout{
+    font-family: Montserrat!important;
+}
+.yfdai-staking-form form,.tbody{
+    border-top:0px;
+}
+.yfdai-staking-form form{
+    padding:20px 30px;
+}
+.card,table{
+    background-color:transparent!important;
+    box-shadow:none;
+}
+.text-muted{
+    font-family: Montserrat!important;
+    /*color: #683628!important;*/
+   /*  color: #029636!important; */
+}
+/*.yfdai-staking-form form label{
+    font-size:12px!important;
+    letter-spacing: .6em;
+}*/
+.card,.table{
+    box-shadow:none;
+}
+/* h3.mb-4{
+    letter-spacing: .6em;
+    font-family: Montserrat!important;
+    text-transform: uppercase;
+    font-size:15px;
+} */
+.mt-5 button{
+    padding: 10px 25px;
+}
+.c-callout{
+    /*color: #683628!important;*/
+    border-left: 0px!important;
+}
+.c-callout strong{
+    margin-left:20px;
+}
+
+
+body{
+    /*background: #ffd4a7;*/
+    background: -webkit-gradient(linear,left top,right top,from(#140E38),to(#194089));
+    background: -webkit-linear-gradient(left,#140E38,#194089);
+    background: -moz-linear-gradient(left,#140E38,#194089);
+    background: -o-linear-gradient(left,#140E38,#194089);
+    background: linear-gradient(to right,#140E38,#194089);
+}
+/*.container .mt-5 h3,.container .mt-5 p{*/
+/*    color:#683628;*/
+/*}*/
+
+*{
+    font-family: Arial, Helvetica, sans-serif!important;
+}
+.table-responsive{
+    /*background: #fef3e0;*/
+    background: #234aa0;
+    margin: 20px 0px;
+    padding: 30px;
+    border-radius: 10px;
+    color: #ffffff!important;
+}
+.card{
+    /*background-color: #fef3e0!important;*/
+    background-color: #234aa0!important;
+    border-radius: 10px;
+}
+.card label{
+    color:#d08639;
+}
+span.lendFarmTxt{
+    color:#d46d20;
+    font-size:15px;
+    font-weight:bold;
+    word-spacing:1.2em;
+    display:block;
+}
+span.comingSoon{
+    color: rgb(160, 160, 160);
+    font-size: 15px;
+    margin-bottom: 50px!important;
+    display: block;
+}
+.main-menu {
+    float: right;
+    font-size: 14px;
+}
+ul.menubar {
+    list-style: none;
+    display: inline-flex;
+}
+li.menu-item a{
+    padding: 5px 10px;
+    color: #d46d20!important;
+    cursor: pointer;
+    display:block;
+}
+.logoDiv{
+    margin-bottom:60px!important;
+}
+.btn:hover a{
+    color: #ffd4a7!important;
+    -webkit-text-fill-color: #ffd4a7!important;
+}

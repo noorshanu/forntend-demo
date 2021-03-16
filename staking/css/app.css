@@ -1,0 +1,79 @@
+::placeholder {
+    color: #bbb!important;
+}
+
+.table-condensed td, .table-condensed th {
+    padding: .9rem;
+}
+.table td pre {
+    margin-bottom: 0;
+}
+.text-bold {
+    font-weight: bold;
+}
+.yfdai-staking-form form {
+    padding-top: 2rem;
+    padding: 20px;
+    border-top: 3px solid #eaa57d;
+    border-radius: 5px;
+}
+.yfdai-staking-form form label {
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding-bottom: .5rem;
+}
+
+body {
+    /*background: #151935;*/
+    /*background-color: rgb(25, 61, 192);*/
+    color: #fff;
+    font-family: 'Raleway', sans-serif!important;
+
+}
+th, td, a, a:hover, a:active, a:link, a:visited {
+    color: #fff;
+}
+/* button.btn-primary:hover {
+    background: linear-gradient(90deg, #2765FF, #17D7FF);
+} */
+
+.yfdai-staking table {
+    font-size: 1.2rem;
+}
+
+.yfdai-staking-form input {
+    background: transparent!important;
+    color: #fff!important;
+    border-color: #fff!important;
+}
+.bg-white {
+    border-color: white!important;
+}
+
+.btn {
+    background: linear-gradient(90deg, #F1BE0C, #F7DC18);
+    border-color: #F1BE0C!important;
+    
+}
+.btn a {
+    -webkit-text-fill-color: #fff;
+}
+
+.btn:hover {
+    background: #fff;
+}
+.btn:hover a {
+    -webkit-text-fill-color: transparent;
+}
+small {
+    font-size: .8rem;
+    position: relative;
+    top:1px;
+}
+.App {
+    padding-top: 2rem;
+    background: -webkit-linear-gradient(left,#140E38,#194089)!important;
+    background: -moz-linear-gradient(left,#140E38,#194089)!important;
+    background: -o-linear-gradient(left,#140E38,#194089)!important;
+    background: linear-gradient(to right,#140E38,#194089)!important;
+}
